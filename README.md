@@ -1,2 +1,4 @@
-# Complete-Local-Convolutional-Sparse-Dictionary-Learning
-This is a fast dictionary learning algorithm library, which can achieve rapid self-learning for local support of repetitive events or signals, significantly reducing memory consumption and speeding up learning. Using this method for dictionary learning eliminates the need for data truncation and avoids issues such as atom splitting.
+# FastCSDL
+a fast convolutional sparse dictionary learning algorithm, It can be applied to long one-dimensional signal processing. It doesn't need to divide long data into small segments to speed up the algorithm. It has low memory consumption and high computational efficiency.
+
+Note：This procedure is only for manuscript review. For other purposes, please contact aresmiki@163.com
